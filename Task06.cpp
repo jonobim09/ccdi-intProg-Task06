@@ -5,9 +5,7 @@
 // a company's sales to reach 1.5M
 // using a 5.5% annual growth rate.
 // Also, displays the sales each year
-// Programmed by : Jolly Novino on April 22, 2022
-
-
+// Programmed by : Jolly Novino on April 26, 2022
 
 #include <iostream>
 #include <iomanip>
